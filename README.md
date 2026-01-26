@@ -1,6 +1,6 @@
 # ROSFUNDS
 
-ROS fundamentals step by step.
+ROS fundamentals
 
 ## Contents
 - ROS basics
