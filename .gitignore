@@ -1,0 +1,17 @@
+# ROS build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# Editor
+.vscode/
+
+# Optional (if you ever use Jupyter)
+.ipynb_checkpoints/
