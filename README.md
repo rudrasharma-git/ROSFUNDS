@@ -5,8 +5,8 @@ ROS fundamentals
 ## Contents
 - ROS basics - - \/
 - Nodes, topics, services - - \/
-- Actions
-- Publishers and Subscribers
+- Actions - - \/
+- Publishers and Subscribers - - \/
 - Messages
 - Gazebo
 - LiDAR
