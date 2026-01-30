@@ -3,8 +3,8 @@
 ROS fundamentals
 
 ## Contents
-- ROS basics
-- Nodes, topics, services
+- ROS basics - - \/
+- Nodes, topics, services - - \/
 - Actions
 - Publishers and Subscribers
 - Messages
